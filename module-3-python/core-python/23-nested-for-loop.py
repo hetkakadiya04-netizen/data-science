@@ -13,9 +13,8 @@ nested for loop :
 
 # for i in range(1,6):
 #     for j in range(i):
-#         print("*", end="")
+#         print("*", end=" ")
 #     print()
-
 
 # for i in range(1,6):
 #     for j in range(i):
@@ -23,9 +22,9 @@ nested for loop :
 #     print()
 
 # print multiplication table
-for i in range(1,11):
-    for j in range(1,11):
-        # print("#########")
-        print(i, "*", j, "=", i*j)
+# for i in range(1,11):
+#     for j in range(1,11):
+#         # print("#########")
+#         print(i, "*", j, "=", i*j)
     
-    print("###########") 
+# #     print("###########")

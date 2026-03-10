@@ -13,7 +13,6 @@ for loop :
    
     for i in range(1,10):
       print(i)
-   
       
 '''
 
@@ -40,6 +39,3 @@ emp=["devyang","brijesh","krish","hetkumar"]
 
 # for i in emp:
 #     print(i, end =" ")
-    
-    
-    

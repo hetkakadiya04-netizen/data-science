@@ -163,7 +163,7 @@ Python is widely used in web development, data analysis, artificial intelligence
 
     **rules to defined variables in python**
 
-    1. simple defined with variables   
+    1. simple defined with variables 
        a=10
        b=20
        c="brijesh"

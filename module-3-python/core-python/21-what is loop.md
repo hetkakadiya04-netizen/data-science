@@ -5,7 +5,9 @@
     1. break 
     2. continue
     3. pass 
+
  4. loop is repeated 
+
 
 # types of loop 
   1. for loop
